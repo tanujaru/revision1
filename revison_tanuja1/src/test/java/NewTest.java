@@ -8,6 +8,6 @@ public class NewTest {
 	  System.setProperty("webdriver.chrome.driver", "C:\\Tanuja\\installer\\selenium\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://www.cnn.com/");
-		System.out.println("***********************************Tanuja***********************");
+		System.out.println("***********************************Tanuja213456677***********************");
   }
 }
